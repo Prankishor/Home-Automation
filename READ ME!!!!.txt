@@ -1,0 +1,18 @@
+My main motive of working on this project was to learn the basic concepts of Arduino and a few sensors.
+After the completion of the project, i realized how vast IoT is and there is a lot to cover. But i would suggest beginners to start with something 
+like this to understand the working of the components as well as to learn a bit of coding for Arduino.
+
+I have made the circuit diagram simple and easy to understand. NOTE : Circuit diagram doesn't have the bluetooth module, you will require to
+connect the bluetooth module in the following way-
+Bluetooth Rx = pin 9 of Arduino
+Bluetooth Tx = pin 10 of Arduino
+Bluetooth Gnd = Negative of powersource
+Bluetooth Vcc = positive of power source.
+
+Also, i did not use 9V power source, instead i took an external power source from the laptop itself with another usb wire cause i thought taking 
+power from arduino would not be beneficial. You can experiment though!
+
+
+I have given the link for the video, hope you like it!
+I have also provided the code and the app in the folder named "Arduino Code and App"
+
