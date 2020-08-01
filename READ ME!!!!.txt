@@ -14,5 +14,6 @@ power from arduino would not be beneficial. You can experiment though!
 
 
 I have given the link for the video, hope you like it!
+VIDEO LINK: https://www.youtube.com/watch?v=9vF-nPiDFmM
 I have also provided the code and the app in the folder named "Arduino Code and App"
 
